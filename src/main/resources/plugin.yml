@@ -1,0 +1,7 @@
+name: CustomBukkitEvents
+version: '${project.version}'
+main: me.overkidding.bukkitevents.CustomBukkitEvents
+api-version: 1.18
+authors: [ overkidding ]
+description: Makes creating some type of plugins easier
+website: https://www.edenmine.eu
