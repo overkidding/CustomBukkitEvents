@@ -1,3 +1,6 @@
+/**
+ *
+**/
 package me.overkidding.bukkitevents.events;
 
 import org.bukkit.entity.Entity;
